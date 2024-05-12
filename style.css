@@ -1,0 +1,10 @@
+/* author: Alex Andrix
+https://codepen.io/alexandrix/pen/VbeyZO */
+body {
+    background: #333;
+    margin: 0;
+    overflow: hidden;
+  }
+  canvas {
+    background: black;
+  }
